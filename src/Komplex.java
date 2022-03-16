@@ -3,5 +3,7 @@ public class Komplex {
     double y;
 
 
+    public double add() {
+        return x + y;
+    }
 }
-public class add
